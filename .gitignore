@@ -1,0 +1,22 @@
+# Conda / virtual environments
+.venv/
+env/
+
+# Large data files — regenerate with generate_fintech_data.py
+data/raw/*.csv
+data/cleaned/*.csv
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# VS Code
+.vscode/
+
+# Mac/Windows system files
+.DS_Store
+Thumbs.db
