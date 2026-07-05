@@ -20,3 +20,4 @@ __pycache__/
 # Mac/Windows system files
 .DS_Store
 Thumbs.db
+data/sql_outputs/*.csv
